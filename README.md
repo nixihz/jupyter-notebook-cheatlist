@@ -1,1 +1,1 @@
-# jupyter-notebook-cheatlist
+# jupyter-notebook-cheatsheet
